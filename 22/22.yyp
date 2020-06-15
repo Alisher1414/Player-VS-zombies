@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "5dd4d049-6f1a-4c14-b73a-3c73583af240",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "ad26fb79-167c-4b1c-b37c-c6792773582e",
             "Value": {
                 "id": "e5effda1-34dd-4708-8ef1-6c79621c9dfa",
@@ -340,6 +348,14 @@
                 "id": "17616a67-b110-42a3-bd39-2ce49c6794c7",
                 "resourcePath": "objects\\obj_enemyspawn\\obj_enemyspawn.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "4f92c3a4-29d6-4dd4-8ffd-cff40439d51c",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
